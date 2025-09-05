@@ -5,4 +5,5 @@ if ($age < 18) {
 }
 else{
     echo "You can vote";
+    echo "I will vote here today.";
 }
